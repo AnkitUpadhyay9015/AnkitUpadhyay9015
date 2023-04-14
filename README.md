@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANKIT UPADHYAY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **App Development Intern**
+- 🔭 I’m currently working on **Web Development Intern**
 
 - 🌱 I’m currently learning **DSA, Backend Developer**
 
